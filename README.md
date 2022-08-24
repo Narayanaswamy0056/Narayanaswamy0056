@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Narayanaswamy Gowda
 - 👀 I’m interested in Devops 
-- 🌱 I’m currently working as DevOps Enginner in Hitachi Systems
+- 🌱 I’m currently working as DevOps Enginner
 - 💞️ I’m looking to collaborate with other content vreators
 - 📫 How to reach me 8147202911/narayanaswamyvin2@gmail.com
 
